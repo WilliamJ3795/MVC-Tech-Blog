@@ -114,5 +114,5 @@ router.get('*', (req, res) => {
 
 })
 
-//Export//
+
 module.exports = router;
