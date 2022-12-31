@@ -11,7 +11,7 @@ const session = require('express-session');
 const SequelizeStore = require('connect-session-sequelize')(session.Store);
 
 const sess = {
-    secret: "Secret",
+    secret: process.env.DB_SESSION_SECRET,
     cookie: {},
     resave: false,
     saveUninitialized: true,
@@ -21,7 +21,7 @@ const sess = {
   };
 
 const app = express();
-const PORT = process.env.PORT || 3010;
+const PORT = process.env.PORT || 3001;
 
 app.engine('handlebars', hbs.engine);
 app.set('view engine', 'handlebars');
