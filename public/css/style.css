@@ -7,12 +7,12 @@ html {
     height: 100%;
     padding: 0;
     margin: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'OCR A Std', monospace;
     color:white;
 }
 main,
 .site-name {
-    background-color: #EB6440;
+    background-color: #263159;
 }
 
 a,
@@ -23,7 +23,7 @@ a,
 
 a:hover,
 .btn-no-style:hover {
-    color: #497174;
+    color: #495579;
 }
 a {
     text-decoration: none;
@@ -32,7 +32,7 @@ a {
 }
 
 button {
-    background-color: #225ca3;
+    background-color: #495579;
     border: 0;
     padding: 1%;
     color: white;
@@ -42,7 +42,7 @@ button {
     border-radius: 5px;
 }
 button:hover {
-    background-color: #3486eb;
+    background-color: #251749;
 }
 
 .post-list {
@@ -97,14 +97,14 @@ header,
 .site-row,
 .info-section,
 .form-heading {
-    background-color: #D6E4E5;
+    background-color: #495579;
 }
 
 .login-page,
 .sign-in-page,
 .new-form-page,
 .edit-form-page {
-    border: 3px dashed dodgerblue;
+    border: 3px dashed #495579;
     padding-bottom: 10px;
 }
 
@@ -137,7 +137,7 @@ header h1 {
 
 .site-row {
     display: flex;
-    border-bottom: 1px solid #E5D9B6;
+    border-bottom: 1px solid #263159;
     justify-content: center;
 }
 /* .site-name to adjust tech support name */
@@ -169,16 +169,16 @@ main {
 }
 
 .delete-post-btn {
-    background-color: #d41414;
+    background-color: #a31111;
 }
 
 .delete-post-btn:hover {
-    background-color: #ff643d;
+    background-color: #e13910;
 }
 
 .post {
     margin-bottom: 2%;
-    line-height: 150%;
+    line-height: 123%;
     border: 3px solid black;
     border-radius: 10px;
 }
@@ -186,13 +186,13 @@ main {
 .post .title span {
     font-style: italic;
     font-size: 90%;
-    color: #7d7d7d;
+    color: #6d6565;
 }
 
 .edit-link {
     display: block;
     margin: -1.5% 0 2% 0;
-    color: #2c2307;
+    color: #FFFBEB;
 }
 
 .comment-form {
