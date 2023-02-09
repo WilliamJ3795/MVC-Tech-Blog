@@ -1,5 +1,4 @@
- ##Tech Support -
- Model-View-Controller (MVC): Tech Blog
+ ## Tech Support - Model-View-Controller (MVC): Tech Blog
   
   - https://github.com/WilliamJ3795/MVC-Tech-Blog
 
