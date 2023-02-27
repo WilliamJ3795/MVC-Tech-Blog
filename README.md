@@ -30,6 +30,7 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
   - JS
   - Node
   - MySQL
+  - Express.js
   - CSS
   - Handlebars.js
   
@@ -45,4 +46,4 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
 The following animation demonstrates the application functionality:
 
-![Animation cycles through signing into the app, clicking on buttons, and updating blog posts.](./Assets/14-mvc-homework-demo-01.gif) 
+![Animation cycles through signing into the app, clicking on buttons, and updating blog posts.](./Assets/MVC%20blog%20demo.gif) 
