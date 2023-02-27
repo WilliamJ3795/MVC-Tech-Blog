@@ -30,6 +30,7 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
   - JS
   - Node
   - MySQL
+  - Express.js
   - CSS
   - Handlebars.js
   
